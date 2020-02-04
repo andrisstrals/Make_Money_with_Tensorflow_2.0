@@ -1,0 +1,6 @@
+name: tensorflow2
+dependencies:
+- matplotlib
+- numpy
+- pandas
+
